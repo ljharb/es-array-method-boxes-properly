@@ -1,6 +1,6 @@
 {
 	"name": "es-array-method-boxes-properly",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Utility package to determine if an `Array.prototype` method properly boxes the callback's receiver and third argument.",
 	"main": "index.js",
 	"scripts": {
