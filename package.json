@@ -1,0 +1,19 @@
+{
+	"name": "es-array-method-boxes-properly",
+	"version": "0.0.0",
+	"description": "Utility package to determine if an `Array.prototype` method properly boxes the callback's receiver and third argument.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/es-array-method-boxes-properly.git"
+	},
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/es-array-method-boxes-properly/issues"
+	},
+	"homepage": "https://github.com/ljharb/es-array-method-boxes-properly#readme"
+}
