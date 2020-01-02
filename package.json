@@ -16,6 +16,9 @@
 		"url": "git+https://github.com/ljharb/es-array-method-boxes-properly.git"
 	},
 	"author": "Jordan Harband <ljharb@gmail.com>",
+	"funding": {
+		"url": "https://github.com/sponsors/ljharb"
+	},
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/ljharb/es-array-method-boxes-properly/issues"
