@@ -4,7 +4,8 @@
 	"description": "Utility package to determine if an `Array.prototype` method properly boxes the callback's receiver and third argument.",
 	"main": "index.js",
 	"scripts": {
-		"prepublish": "safe-publish-latest",
+		"prepublish": "not-in-publish || npm run prepublishOnly",
+		"prepublishOnly": "safe-publish-latest",
 		"lint": "eslint .",
 		"pretest": "npm run lint",
 		"tests-only": "nyc tape 'test/**/*.js'",
