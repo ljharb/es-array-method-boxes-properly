@@ -5,7 +5,6 @@ module.exports = function properlyBoxed(method) {
 	var threwException = false;
 	if (typeof method === 'function') {
 		try {
-			// eslint-disable-next-line max-params
 			method.call('f', function (_, __, O) {
 				if (typeof O !== 'object') {
 					properlyBoxesNonStrict = false;
