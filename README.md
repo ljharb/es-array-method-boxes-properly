@@ -35,5 +35,5 @@ Clone the repo, `npm install`, and run `npm test`
 [downloads-url]: https://npm-stat.com/charts.html?package=es-array-method-boxes-properly
 [codecov-image]: https://codecov.io/gh/ljharb/es-array-method-boxes-properly/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/ljharb/es-array-method-boxes-properly/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/ljharb/es-array-method-boxes-properly
+[actions-image]: https://img.shields.io/github/check-runs/ljharb/es-array-method-boxes-properly/main
 [actions-url]: https://github.com/ljharb/es-array-method-boxes-properly/actions
